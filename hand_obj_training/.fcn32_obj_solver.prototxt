@@ -1,0 +1,16 @@
+net: ".fcn32_obj_train.prototxt"
+
+#test_iter: 5000
+#test_interval: 100000000
+#test_initialization: false
+display: 5
+lr_policy: "fixed"
+#base_lr: 1e-10
+base_lr: 1e-8
+momentum: 0.99
+iter_size: 1
+max_iter: 80000
+weight_decay: 0.0005
+snapshot: 500
+
+snapshot_prefix: "model/OBJ"

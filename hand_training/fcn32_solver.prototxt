@@ -1,0 +1,10 @@
+net: "fcn32_train.prototxt"
+display: 5
+lr_policy: "fixed"
+base_lr: 1e-10
+momentum: 0.99
+iter_size: 1
+max_iter: 80000
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "model/FCN32_S1"

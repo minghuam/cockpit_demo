@@ -1,0 +1,15 @@
+lift_gear 0
+pull_yoke 1
+pulldown_black_stick 2
+pulldown_blue_stick 3
+pulldown_gear 4
+pulldown_red_stick 5
+push_yoke 6
+pushup_black_stick 7
+pushup_blue_stick 8
+pushup_red_stick 9
+turn_switch 10
+turnleft_dail 11
+turnleft_yoke 12
+turnright_dail 13
+turnright_yoke 14

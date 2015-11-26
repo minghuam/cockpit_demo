@@ -1,0 +1,10 @@
+net: "train.prototxt"
+display: 5
+lr_policy: "fixed"
+base_lr: 0.0001
+momentum: 0.99
+iter_size: 1
+max_iter: 10000
+weight_decay: 0.0005
+snapshot: 500
+snapshot_prefix: "model/MOTION"
